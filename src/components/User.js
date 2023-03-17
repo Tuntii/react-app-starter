@@ -8,6 +8,7 @@ export default class User extends Component {
           <li>İsim: Tunay Engin</li>
           <li>Departman: IT</li>
           <li>Maaş: </li>
+          <li>Yaş: </li>
         </ul>
       </div>
     )

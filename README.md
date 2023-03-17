@@ -1,3 +1,1 @@
-# Git React App Starter pack # 
-
-* Helloo !!
+# Bu proje react için starter packtir
